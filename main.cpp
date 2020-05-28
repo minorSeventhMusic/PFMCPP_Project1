@@ -52,85 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       goat
+//  action 1:   the goat licks, e.g. salt
+goat.lick();
+//  action 2:   the goat gives milk
+goat.giveMilk();
+//  action 3:   the goat jumps around
+goat.jump();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       heart
+//  action 1:   the heart beats
+heart.beat();
+//  action 2:   the heart aches
+heart.ache();
+//  action 3:   the heart stops
+heart.stop();
  
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       nose
+//  action 1:   the nose smells
+nose.smell();
+//  action 2:   the nose runs
+nose.run();
+//  action 3:   the nose is blown
+nose.blow(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       engine
+//  action 1:   the engine runs
+engine.run();
+//  action 2:   the engine stutters
+engine.stutter();
+//  action 3:   the engine uses some sort of turbo
+engine.usesTurbo(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       whale
+//  action 1:   the whale dives
+whale.dive();
+//  action 2:   the whale blows
+whale.blow();
+//  action 3:   the whale sings
+whale.sing(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       plane
+//  action 1:   the plane takes off
+plane.takeOff();
+//  action 2:   the plane lands
+plane.land();
+//  action 3:   the plane glides
+plane.glide(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       barber
+//  action 1:   the barber shaves
+barber.shaves();
+//  action 2:   the barber washes his hands
+barber.washHands();
+//  action 3:   the barber takes money
+barber.takesMoney(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       harddisk
+//  action 1:   the harddisk spins
+harddisk.spin();
+//  action 2:   harddisk writes data
+harddisk.writeData();
+//  action 3:   harddisk shuts down;
+harddisk.shutDown(); 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       washing machine
+//  action 1:   the washing machine washes
+washingMachine.wash();
+//  action 2:   the washing machine spins
+washingMachine.spin();
+//  action 3:   the washing machine pumps the water
+washingMachine.pumpsWater(); 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tea kettle
+//  action 1:   the tea kettle whistles
+teaKettle.whistle();
+//  action 2:   the tea kettle boils water
+teaKettle.boilWater();
+//  action 3:   the tea kettle explodes (for whatever reason)
+teaKettle.explode(); 
 
 
 #endif
