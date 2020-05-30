@@ -101,13 +101,23 @@ plane.land();
 //  action 3:   the plane glides
 plane.glide(); 
 //  7)
+/*
 //  Noun:       barber
 //  action 1:   the barber shaves
 barber.shaves();
 //  action 2:   the barber washes his hands
 barber.washHands();
 //  action 3:   the barber takes money
-barber.takesMoney(); 
+barber.takesMoney();
+HERE ARE THE CHANGES YOU REQUESTED
+*/
+//  Noun:       newNounWithCamelCase
+//  action 1:   the new noun is proud of itself
+newNounWithCamelCase.isProudOfItself();
+//  action 2:   the new noun wants to have more meaning
+newNounWithCamelCase.wantsToHaveMoreMeaning();
+//  action 3:   the new noun glances angrily at its colleagues that seem far more useful
+newNounWithCamelCase.glancesAngrilyAtColleagues(); 
 //  8)
 //  Noun:       harddisk
 //  action 1:   the harddisk spins
